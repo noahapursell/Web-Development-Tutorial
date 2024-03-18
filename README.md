@@ -10,5 +10,5 @@ It was made with the following stack in mind:
 
 ## Suggested Order of Completion:
 1. [Intro_to_WebDev.pdf](https://github.com/noahapursell/Web-Development-Tutorial/blob/main/Intro_to_WebDev.pdf)
-2. [front_end_intro](https://github.com/mill0851/Web_Dev_Tutorials/tree/main)
+2. [front_end_intro](https://github.com/mill0851/Web_Dev_Tutorials/blob/main/Front_End_Dev_Intro.pdf)
 3. [Web Development Tutorial - Advanced Backend.pdf](https://github.com/noahapursell/Web-Development-Tutorial/blob/main/Web%20Development%20Tutorial%20-%20Advanced%20Backend.pdf)
